@@ -1,0 +1,3 @@
+.showyourterms, .showyourterms::before, .showyourterms::after, showyourterms .syt-statusbar, showyourterms .syt-statusbar ul {
+    box-sizing: content-box;
+}
